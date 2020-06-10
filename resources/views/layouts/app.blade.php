@@ -31,7 +31,7 @@
 
     @include('partials.app.footer')
 
-    <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+    <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     @include('partials.app.scripts')
 

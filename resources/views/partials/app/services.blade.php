@@ -13,7 +13,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box iconbox-blue">
                             <div class="icon">
-                                <i class='bx bxs-conversation' ></i>
+                                <i class="far fa-comment-dots"></i>
                             </div>
                             <h4><a href="">Commonweal Conversations</a></h4>
                             <p>Anyone interested in thoughtful, expansive, intelligent dialogue on issues that matter—whether political, theological, cultural, or artistic—is welcome.</p>

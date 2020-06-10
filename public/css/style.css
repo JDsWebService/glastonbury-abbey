@@ -91,6 +91,10 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+.icon-bar a i {
+  font-size: 12pt;
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -781,7 +785,7 @@ section {
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
-  font-size: 24px;
+  font-size: 14px;
   position: absolute;
   right: 0;
   top: 0;
@@ -1066,9 +1070,9 @@ section {
 }
 
 #footer .footer-top .footer-links ul i {
-  padding-right: 2px;
+  padding-right: 5px;
   color: #ffc107;
-  font-size: 18px;
+  font-size: 10px;
   line-height: 1;
 }
 
@@ -1165,4 +1169,8 @@ section {
 #footer .social-links a:hover {
   background: #ffce3a;
   text-decoration: none;
+}
+
+#footer .social-links a i {
+  font-size: 12pt;
 }
