@@ -24,27 +24,27 @@
                     <h4>Useful Links</h4>
                     <ul>
                         <li><i class="fas fa-chevron-right"></i> <a href="#">Home</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">About us</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Services</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Terms of service</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Mass & Prayer</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Institute Programs</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Events</a></li>
                         <li><i class="fas fa-chevron-right"></i> <a href="#">Privacy policy</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Services</h4>
+                    <h4>Misc. Information</h4>
                     <ul>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Web Design</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Web Development</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Product Management</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Marketing</a></li>
-                        <li><i class="fas fa-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Link 1</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Link 1</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Link 1</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Link 1</a></li>
+                        <li><i class="fas fa-chevron-right"></i> <a href="#">Link 1</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-4 col-md-6 footer-newsletter">
                     <h4>Join Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                    <p>Sign up to receive our newsletter. We will keep you informed of all the events, classes, retreats and news from the Abbey, as well as any changes to our programs.</p>
                     <form action="" method="post">
                         <input type="email" name="email"><input type="submit" value="Subscribe">
                     </form>
