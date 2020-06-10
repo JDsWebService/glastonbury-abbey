@@ -204,8 +204,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
+  content: "\f078";
+  font-family: 'Font Awesome\ 5 Free';
+  font-weight: 900;
+  font-size: 10pt;
   padding-left: 5px;
 }
 
@@ -225,8 +227,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down .drop-down > a:after {
-  content: "\eaa0";
-  font-family: IcoFont;
+  content: "\f053";
+  font-family: 'Font Awesome\ 5 Free';
+  font-weight: 900;
+  font-size: 10pt;
   position: absolute;
   right: 15px;
 }
@@ -239,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
     left: -100%;
   }
   .nav-menu .drop-down .drop-down > a:after {
-    content: "\ea9d";
+    content: "\f053";
   }
 }
 
@@ -300,8 +304,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .drop-down > a:after {
-  content: "\ea99";
-  font-family: IcoFont;
+  content: "\f078";
+  font-family: 'Font Awesome\ 5 Free';
+  font-weight: 900;
   padding-left: 10px;
   position: absolute;
   right: 15px;

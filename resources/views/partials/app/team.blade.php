@@ -1,5 +1,5 @@
 <!-- ======= Team Section ======= -->
-        <section id="team" class="team section-bg">
+        <section id="meet" class="team section-bg">
             <div class="container">
 
                 <div class="section-title">
