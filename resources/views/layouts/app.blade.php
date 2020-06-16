@@ -21,7 +21,7 @@
 
         @include('partials.app.services')
 
-        @include('partials.app.team')
+        @include('partials.app.life')
 
         @include('partials.app.faq')
 

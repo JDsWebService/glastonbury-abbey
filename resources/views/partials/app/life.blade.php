@@ -1,10 +1,10 @@
-<!-- ======= Team Section ======= -->
+{{-- Our Daily Life Section --}}
 <section id="meet" class="team section-bg">
     <div class="container">
 
         <div class="section-title">
-            <h2>Meet The Monks</h2>
-            <p>Meet some of our monks! We believe that connection is important, and we want you to know who we are. Click on a monk to read their bio!</p>
+            <h2>Our Daily Life</h2>
+            <p>The Rule of Saint Benedict is our guide to daily living. Click on the images to learn more.</p>
         </div>
 
         <div class="row">
@@ -15,7 +15,7 @@
                         <img src="img/abbey/monks/monk1.jfif" class="img-fluid" alt="">
                     </div>
                     <div class="member-info">
-                        <h4>Abbot Thomas</h4>
+                        <h4>MORNING PRAYER</h4>
                         <span>Title</span>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                         <img src="img/abbey/monks/monk2.jfif" class="img-fluid" alt="">
                     </div>
                     <div class="member-info">
-                        <h4>Brother Daniel</h4>
+                        <h4>MIDDAY PRAYER</h4>
                         <span>Title</span>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                         <img src="img/abbey/monks/monk3.jfif" class="img-fluid" alt="">
                     </div>
                     <div class="member-info">
-                        <h4>Father Timothy</h4>
+                        <h4>DAILY MINISTRY</h4>
                         <span>Title</span>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <img src="img/abbey/monks/monk4.jfif" class="img-fluid" alt="">
                     </div>
                     <div class="member-info">
-                        <h4>Father Nicholas</h4>
+                        <h4>EVENING PRAYER</h4>
                         <span>Title</span>
                     </div>
                 </div>
@@ -60,4 +60,4 @@
         </div>
 
     </div>
-</section><!-- End Team Section -->
+</section><!-- End Our Daily Life Section -->

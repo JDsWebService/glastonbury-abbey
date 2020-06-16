@@ -79,9 +79,6 @@
 	"expanded_folders":
 	[
 		"/E/Sites/abbey",
-		"/E/Sites/abbey/.baker",
-		"/E/Sites/abbey/.baker/assets",
-		"/E/Sites/abbey/.baker/assets/css",
 		"/E/Sites/abbey/public",
 		"/E/Sites/abbey/public/css",
 		"/E/Sites/abbey/public/js",
@@ -89,29 +86,31 @@
 		"/E/Sites/abbey/resources/views",
 		"/E/Sites/abbey/resources/views/layouts",
 		"/E/Sites/abbey/resources/views/partials",
-		"/E/Sites/abbey/resources/views/partials/app"
+		"/E/Sites/abbey/resources/views/partials/app",
+		"/E/Sites/abbey/routes"
 	],
 	"file_history":
 	[
-		"/E/Sites/abbey/resources/views/partials/app/navbar.blade.php",
 		"/E/Sites/abbey/public/css/style.css",
-		"/E/Sites/abbey/routes/web.php",
-		"/E/Sites/abbey/resources/views/layouts/app.blade.php",
 		"/E/Sites/abbey/resources/views/partials/app/footer.blade.php",
-		"/E/Sites/abbey/resources/views/partials/app/socialmedia.blade.php",
-		"/E/Sites/abbey/public/js/main.js",
-		"/E/Sites/abbey/resources/views/partials/app/contact.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/navbar.blade.php",
 		"/E/Sites/abbey/resources/views/partials/app/team.blade.php",
-		"/E/Sites/abbey/public/img/abbey/monks/monk1.jfif",
-		"/E/Sites/abbey/resources/views/partials/app/about.blade.php",
 		"/E/Sites/abbey/resources/views/partials/app/services.blade.php",
-		"/E/Sites/abbey/resources/views/partials/app/cta.blade.php",
-		"/E/Sites/abbey/resources/views/partials/app/head.blade.php",
 		"/E/Sites/abbey/resources/views/partials/app/hero.blade.php",
 		"/E/Sites/abbey/resources/views/partials/app/faq.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/cta.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/contact.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/about.blade.php",
+		"/E/Sites/abbey/routes/web.php",
+		"/E/Sites/abbey/resources/views/partials/app/head.blade.php",
+		"/E/Sites/abbey/resources/views/index.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/scripts.blade.php",
+		"/E/Sites/abbey/resources/views/layouts/app.blade.php",
+		"/E/Sites/abbey/resources/views/partials/app/socialmedia.blade.php",
+		"/E/Sites/abbey/public/js/main.js",
+		"/E/Sites/abbey/public/img/abbey/monks/monk1.jfif",
 		"/E/Sites/abbey/resources/partials/app/scripts.blade.php",
 		"/E/Sites/abbey/resources/layouts/app.blade.php",
-		"/E/Sites/abbey/resources/views/index.blade.php",
 		"/E/Sites/abbey/resources/partials/app/head.blade.php",
 		"/E/Sites/abbey/.baker/portfolio-details.html",
 		"/E/Sites/abbey/.baker/forms/contact.php",
@@ -218,7 +217,7 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -232,6 +231,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<i class=\"bx bx-chevron-right\"></i>",
+			"<i class=\"bx bx-chevron-up icon-close\"></i>",
+			"<i class=\"bx bx-chevron-down icon-show\"></i>",
+			"<i class=\"bx bx-help-circle icon-help\">",
+			"<i",
+			"icofon",
 			"#hi",
 			"img-fluid\"",
 			".member-img",
@@ -263,11 +268,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 30.0
 	},
 	"input":
 	{
-		"height": 69.0
+		"height": 71.0
 	},
 	"layout":
 	{
@@ -312,7 +317,7 @@
 	"project": "abbey.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
