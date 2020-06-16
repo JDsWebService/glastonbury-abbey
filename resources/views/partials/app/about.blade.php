@@ -10,7 +10,7 @@
 
                 <img src="/img/facebook.png" class="img-fluid" alt="Check us out on Facebook!">
                 <p class="mt-3">
-                    We are now streaming live to Facebook for all our mass services. Come check us out and don't forget to follow us, that way you're notified every time we go live. Here's Our Daily Schedule!
+                    We are now streaming live to Facebook for all our mass services. Come check us out and don't forget to follow us, that way you're notified every time we go live.
                 </p>
                 
                 <h3>Outdoor Mass Is Now Available!</h3>
