@@ -19,7 +19,7 @@
 
         @include('partials.app.cta')
 
-        @include('partials.app.services')
+        @include('partials.app.programs')
 
         @include('partials.app.life')
 

@@ -510,17 +510,18 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Programs Section
 --------------------------------------------------------------*/
-.services .icon-box {
+.programs .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
+  width: 100%;
 }
 
-.services .icon-box .icon {
+.programs .icon-box .icon {
   margin: 0 auto;
   width: 64px;
   height: 64px;
@@ -529,109 +530,153 @@ section {
   justify-content: center;
   transition: ease-in-out 0.3s;
   position: relative;
-  background: #f5f5f5;
+  background: #2d3436;
   border-radius: 50px;
 }
 
-.services .icon-box .icon i {
+.programs .icon-box .icon i {
   font-size: 32px;
   transition: 0.5s;
   line-height: 1;
   position: relative;
 }
 
-.services .icon-box h4 {
+.programs .icon-box h4 {
   font-weight: 600;
   margin: 10px 0 15px 0;
   font-size: 22px;
+  color: #b2bec3;
 }
 
-.services .icon-box h4 a {
-  color: #414c64;
-  transition: ease-in-out 0.3s;
-}
-
-.services .icon-box p {
+.programs .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: #b2bec3;
 }
 
-.services .icon-box:hover {
+.programs .icon-box:hover {
   border-color: #fff;
-  box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.5);
 }
 
-.services .iconbox-blue i {
+.programs .iconbox-blue i {
   color: #47aeff;
 }
 
-.services .iconbox-blue:hover .icon {
+.programs .iconbox-blue:hover .icon {
   background: #47aeff;
 }
 
-.services .iconbox-blue:hover .icon i {
+.programs .iconbox-blue:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-orange i {
+.programs .iconbox-orange i {
   color: #ffa76e;
 }
 
-.services .iconbox-orange:hover .icon {
+.programs .iconbox-orange:hover .icon {
   background: #ffa76e;
 }
 
-.services .iconbox-orange:hover .icon i {
+.programs .iconbox-orange:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-pink i {
+.programs .iconbox-pink i {
   color: #e80368;
 }
 
-.services .iconbox-pink:hover .icon {
+.programs .iconbox-pink:hover .icon {
   background: #e80368;
 }
 
-.services .iconbox-pink:hover .icon i {
+.programs .iconbox-pink:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-yellow i {
+.programs .iconbox-yellow i {
   color: #ffbb2c;
 }
 
-.services .iconbox-yellow:hover .icon {
+.programs .iconbox-yellow:hover .icon {
   background: #ffbb2c;
 }
 
-.services .iconbox-yellow:hover .icon i {
+.programs .iconbox-yellow:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-red i {
+.programs .iconbox-red i {
   color: #ff5828;
 }
 
-.services .iconbox-red:hover .icon {
+.programs .iconbox-red:hover .icon {
   background: #ff5828;
 }
 
-.services .iconbox-red:hover .icon i {
+.programs .iconbox-red:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-teal i {
+.programs .iconbox-teal i {
   color: #11dbcf;
 }
 
-.services .iconbox-teal:hover .icon {
+.programs .iconbox-teal:hover .icon {
   background: #11dbcf;
 }
 
-.services .iconbox-teal:hover .icon i {
+.programs .iconbox-teal:hover .icon i {
   color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Programs - Icon Box Backgrounds
+--------------------------------------------------------------*/
+/* Faded Out Box */
+.programs .iconbox-faded {
+  opacity: 0.6;
+}
+.programs .iconbox-faded:hover {
+  opacity: 1;
+}
+/* Donations (Top Left) */
+.programs .iconbox-donations {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/donations.png");
+  background-size: cover;
+}
+/* Mass Guild (Top Center) */
+.programs .iconbox-massguild {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/massguild.png");
+  background-size: cover;
+}
+/* Get Involved (Top Right) */
+.programs .iconbox-involved {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/involved.png");
+  background-size: cover;
+}
+/* Institute (Bottom Left) */
+.programs .iconbox-institute {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/institute.png");
+  background-size: cover;
+}
+/* Cemetery (Bottom Center) */
+.programs .iconbox-cemetery {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/cemetery.png");
+  background-size: cover;
+}
+/* Bookstore (Bottom Right) */
+.programs .iconbox-bookstore {
+  content: "";
+  background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), url("/img/programs/bookstore.png");
+  background-size: cover;
 }
 
 /*--------------------------------------------------------------
@@ -653,7 +698,11 @@ section {
   color: #fff;
 }
 
-.cta .cta-btn {
+/*--------------------------------------------------------------
+# Call To Action Button
+--------------------------------------------------------------*/
+
+.cta-btn {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -667,8 +716,37 @@ section {
   color: #fff;
 }
 
-.cta .cta-btn:hover {
+.cta-btn:hover {
   background: #ffc107;
+  color: #636e72;
+}
+
+.cta-btn-dark {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 35px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #ffc107;
+  color: #636e72;
+}
+
+.cta-btn-dark:hover {
+  background: #ffc107;
+  color: #000000;
+}
+
+.cta-btn-sm {
+  font-size: 10px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 7px 25px;
+  border-radius: 25px;
+  margin-top: 8px;
 }
 
 /*--------------------------------------------------------------
