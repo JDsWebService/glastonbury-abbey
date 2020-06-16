@@ -12,7 +12,7 @@
                 {{-- <li><a href="#mass">Mass & Prayer</a></li> --}}
                 <li><a href="#about">About</a></li>
                 <li><a href="#programs">Programs</a></li>
-                <li><a href="#meet">Meet The Monks</a></li>
+                <li><a href="#meet">Our Daily Life</a></li>
                 <li><a href="#faq">F.A.Q.</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="#shop">Shop</a></li>
