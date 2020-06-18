@@ -3,9 +3,8 @@
     <div class="container">
 
         <div class="section-title">
-            <h2>Programs</h2>
-            <p>The Glastonbury Abbey Institute (GAI) is an extension of the rich Benedictine monastic teaching tradition found at Glastonbury Abbey. As a spiritual resource for lifelong learning, we invite all people from diverse interfaith and cultural traditions to explore and deepen human ways of knowing and being.</p>
-            <p>For a full list of our programs click <a href="#">here</a></p>
+            <h2>Spiritual Hospitality</h2>
+            <p>Following the rich tradition of Benedictine monasticism, Glastonbury Abbey continues to offer a wide variety of services in welcoming all in a loving embrace of hospitality. We invite all people from interfaith and cultural traditions to explore and deepen their connections through the hospitality we offer.</p>
         </div>
 
         <div class="row">
@@ -26,8 +25,8 @@
                     <div class="icon">
                         <i class="fas fa-cross"></i>
                     </div>
-                    <h4>Mass Guild</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis quas saepe tempore ipsum odio unde, totam tempora eaque quod accusamus. Doloribus ipsam praesentium, temporibus esse atque, eos veritatis animi inventore.</p>
+                    <h4>Mass Card</h4>
+                    <p>All enrollees' names are placed in the Abbey Church, in a distinctive wooden case under the Church Tabernacle.</p>
                     <a class="cta-btn" href="#">Learn More</a>
                 </div>
             </div>

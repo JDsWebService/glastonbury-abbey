@@ -646,6 +646,7 @@ section {
 .programs .iconbox-faded:hover {
   opacity: 1;
 }
+
 /* Donations (Top Left) */
 .programs .iconbox-donations {
   content: "";
