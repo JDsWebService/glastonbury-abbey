@@ -3,7 +3,7 @@
     <div class="container">
 
         <div class="text-center">
-            <h3>A Note From Fr. Albrecht Nyce</h3>
+            <h3>Note From The Abbot</h3>
             <p>In order to fight the spread of the COVID-19 virus the Public Mass has closed until further notice. Mass is now streamed <a href="#">Live on Facebook</a>!</p>
 
             <p>We hope you will understand the measures we are taking in this time of national emergency. By enforcing social distancing measures we can “flatten the curve” and slow down the virus spread.</p>
