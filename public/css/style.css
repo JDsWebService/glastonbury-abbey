@@ -766,41 +766,6 @@ section {
   box-shadow: 0px 2px 15px rgba(65, 76, 100, 0.06);
 }
 
-.team .member .member-img {
-  position: relative;
-  height: ;
-  overflow: hidden;
-}
-
-.team .member .social {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  height: 40px;
-  opacity: 0;
-  transition: ease-in-out 0.3s;
-  text-align: center;
-  background: rgba(255, 255, 255, 0.85);
-}
-
-.team .member .social a {
-  transition: color 0.3s;
-  color: #414c64;
-  margin: 0 10px;
-  padding-top: 8px;
-  display: inline-block;
-}
-
-.team .member .social a:hover {
-  color: #ffc107;
-}
-
-.team .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-}
-
 .team .member .member-info {
   padding: 25px 15px;
 }
@@ -829,6 +794,37 @@ section {
 .team .member:hover .social {
   opacity: 1;
 }
+
+/*--------------------------------------------------------------
+# Images
+--------------------------------------------------------------*/
+
+.team .member .member-img {
+  width: 250px;
+  height: 425px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  position: relative;
+  overflow: hidden;
+}
+
+.team .member .morning {
+  background-image: url("/img/life/morning.png");
+}
+
+.team .member .midday {
+  background-image: url("/img/life/midday.png");
+}
+
+.team .member .ministry {
+  background-image: url("/img/life/ministry.png");
+}
+
+.team .member .evening {
+  background-image: url("/img/life/evening.png");
+}
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions

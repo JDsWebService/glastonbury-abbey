@@ -9,50 +9,42 @@
 
         <div class="row">
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
                 <div class="member">
-                    <div class="member-img">
-                        <img src="img/abbey/monks/monk1.jfif" class="img-fluid" alt="">
-                    </div>
+                    <div class="member-img morning"></div>
                     <div class="member-info">
                         <h4>MORNING PRAYER</h4>
-                        <span>Title</span>
+                        <span>Rising with the Word</span>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
                 <div class="member">
-                    <div class="member-img">
-                        <img src="img/abbey/monks/monk2.jfif" class="img-fluid" alt="">
-                    </div>
+                    <div class="member-img midday"></div>
                     <div class="member-info">
                         <h4>MIDDAY PRAYER</h4>
-                        <span>Title</span>
+                        <span>Celebrating the Word</span>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
                 <div class="member">
-                    <div class="member-img">
-                        <img src="img/abbey/monks/monk3.jfif" class="img-fluid" alt="">
-                    </div>
+                    <div class="member-img ministry"></div>
                     <div class="member-info">
                         <h4>DAILY MINISTRY</h4>
-                        <span>Title</span>
+                        <span>Living the Word</span>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
                 <div class="member">
-                    <div class="member-img">
-                        <img src="img/abbey/monks/monk4.jfif" class="img-fluid" alt="">
-                    </div>
+                    <div class="member-img evening"></div>
                     <div class="member-info">
                         <h4>EVENING PRAYER</h4>
-                        <span>Title</span>
+                        <span>Silence in the Word</span>
                     </div>
                 </div>
             </div>
