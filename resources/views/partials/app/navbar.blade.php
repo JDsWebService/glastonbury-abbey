@@ -1,10 +1,12 @@
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
-
+        
+        {{-- <a href="index.html" class="logo mr-auto"><img src="img/logo.jpg" alt="" class="img-fluid"></a> --}}
         <h1 class="logo mr-auto">
             <a href="{{ route('index') }}">Glastonbury Abbey</a>
         </h1>
+
 
         <nav class="nav-menu d-none d-lg-block">
             <ul>
